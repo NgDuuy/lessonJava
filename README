@@ -1,0 +1,4 @@
+Regular expression: Hữu ích trong việc tách các thông tin từ code, hoặc các thông tin từ file logfile 
+hay các file google sheet hoặc tài liệu thông thường.
+RegEx thường được dùng để lọc thông tin 
+Vd: như đăng nhập check xem địa chỉ mail và password có đúng hay không

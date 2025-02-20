@@ -20,5 +20,5 @@ public class oop {
         st3.setName("Nguyen Duc Duy");
         System.out.println("Student 3 name: " + st3.getName() + " age " + st3.getAge());
     }
-
+    // Khi su dung object sử dụng equals thay vì dùng == để so sánh
 }
